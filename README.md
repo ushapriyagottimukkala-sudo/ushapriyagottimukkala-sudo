@@ -16,10 +16,6 @@
 
 `< CODE />` &nbsp; `</ DEVELOPING >` &nbsp; `< INNOVATING />`
 
-![C](https://img.shields.io/badge/C-6C63FF?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-9B59B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-7B68EE?style=for-the-badge)
-
 ✨ *Dream • Code • Innovate* ✨
 
 </div>
