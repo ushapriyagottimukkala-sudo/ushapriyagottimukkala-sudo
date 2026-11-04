@@ -1,24 +1,17 @@
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Hey_there!_I'm_Usha_Priya_%E2%9C%A8-30204F?style=for-the-badge&labelColor=30204F" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#30204F">
-      <br/>
-      <h1>
-        <font color="#E9D5FF">✨ Hey there! I'm Usha Priya ✨</font>
-      </h1>
-      <h3>
-        <font color="#D8B4FE">Computer Science Engineering Student</font>
-      </h3>
-      <p>
-        <font color="#FFFFFF">
-          💻 Aspiring Software Engineer | 🧩 Problem Solver
-        </font>
-      </p>
-      <br/>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  💻 Computer Science Engineering Student
+</h3>
+
+<p align="center">
+  Aspiring Software Engineer | 🧩 Problem Solver
+</p>
+
+---
 
 <h2>🌸 About Me</h2>
 
