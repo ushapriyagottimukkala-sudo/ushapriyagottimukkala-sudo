@@ -1,11 +1,26 @@
 
-<div align="center">
 
-# 💜 Hi there, I'm Usha Priya!
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#30204F">
+      <br/>
+      <h1>
+        <font color="#E9D5FF">✨ Hey there! I'm Usha Priya ✨</font>
+      </h1>
+      <h3>
+        <font color="#D8B4FE">Computer Science Engineering Student</font>
+      </h3>
+      <p>
+        <font color="#FFFFFF">
+          💻 Aspiring Software Engineer | 🧩 Problem Solver
+        </font>
+      </p>
+      <br/>
+    </td>
+  </tr>
+</table>
 
-### B.Tech Computer Science Engineering Student
-
-**💻 Learning | Building | Growing**
+<h2>🌸 About Me</h2>
 
 ---
 
