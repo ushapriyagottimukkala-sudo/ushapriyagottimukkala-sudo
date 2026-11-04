@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  💻 Aspiring Software Engineer | 🧩 Problem Solver
+  💻 Learning | Building | Growing
 </p>
 
 ---
