@@ -63,14 +63,6 @@ A simple web application to organise and track daily tasks.
 [🌐 Live Demo](https://ushapriyagottimukkala-sudo.github.io/student-task-tracker/)
 
 </div>
-
-<h2 align="center">🎯 Current Goals</h2>
-
-- Strengthen problem-solving skills
-- Practise DSA consistently
-- Build practical web development projects
-- Improve Java programming
-
 <h2 align="center">✨ My Motto</h2>
 
 <div align="center">
