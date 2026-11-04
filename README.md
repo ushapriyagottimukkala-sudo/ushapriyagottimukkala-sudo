@@ -53,6 +53,16 @@
 
 </div>
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ushapriyagottimukkala-sudo&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushapriyagottimukkala-sudo&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 
 <!--
 **ushapriyagottimukkala-sudo/ushapriyagottimukkala-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
