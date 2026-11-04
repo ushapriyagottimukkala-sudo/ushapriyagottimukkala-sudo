@@ -63,13 +63,6 @@ A simple web application to organise and track daily tasks.
 [🌐 Live Demo](https://ushapriyagottimukkala-sudo.github.io/student-task-tracker/)
 
 </div>
-<h2 align="center">✨ My Motto</h2>
-
-<div align="center">
-
-**Learn with curiosity. Build with purpose. Grow with consistency.**
-
-</div>
 
 <h2 align="center">🤝 Let's Connect</h2>
 
