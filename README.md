@@ -53,22 +53,6 @@
 
 </div>
 
-<h2 align="center">🏆 Coding Profiles</h2>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/ushapriya_06">
-    <strong>👩‍💻 Visit My CodeChef Profile</strong>
-  </a>
-</p>
-
-<h3 align="center">📈 Coding Milestone</h3>
-
-<p align="center">
-  <strong>180+ Problems Solved on CodeChef</strong><br>
-  Practising problem-solving and strengthening programming fundamentals.
-</p>
-
-
 <h2 align="center">📌 Featured Project</h2>
 
 <div align="center">
