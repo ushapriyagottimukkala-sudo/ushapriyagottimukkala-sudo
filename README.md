@@ -53,15 +53,50 @@
 
 </div>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">💻 My Developer Journey</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ushapriyagottimukkala-sudo&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushapriyagottimukkala-sudo&layout=compact&theme=tokyonight&hide_border=true" />
+| Area | Currently Learning |
+|:---:|:---|
+| Programming | C, Java |
+| Web Development | HTML, CSS, JavaScript |
+| DSA | Arrays, Linked Lists, Two Pointers, Sliding Window |
+| Tools | Git and GitHub |
 
 </div>
+
+<h2 align="center">📌 Featured Project</h2>
+
+<div align="center">
+
+<a href="https://github.com/ushapriyagottimukkala-sudo/student-task-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ushapriyagottimukkala-sudo&repo=student-task-tracker&theme=tokyonight&hide_border=true" />
+</a>
+
+**Student Task Tracker**
+
+A simple web application to organise and track daily tasks.
+
+[🌐 Live Demo](https://ushapriyagottimukkala-sudo.github.io/student-task-tracker/)
+
+</div>
+
+<h2 align="center">🎯 Current Goals</h2>
+
+- Strengthen problem-solving skills
+- Practise DSA consistently
+- Build practical web development projects
+- Improve Java programming
+
+<h2 align="center">✨ My Motto</h2>
+
+<div align="center">
+
+**Learn with curiosity. Build with purpose. Grow with consistency.**
+
+</div>
+
 
 
 <!--
