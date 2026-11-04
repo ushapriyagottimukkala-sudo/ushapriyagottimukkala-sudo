@@ -12,11 +12,7 @@
 </p>
 
 ---
-
-<h2>🌸 About Me</h2>
-
-
----
+<div align="center">
 
 `< CODE />` &nbsp; `</ DEVELOPING >` &nbsp; `< INNOVATING />`
 
