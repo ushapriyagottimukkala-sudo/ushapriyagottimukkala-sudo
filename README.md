@@ -31,7 +31,6 @@
   💻 Exploring Web Development<br>
   🎯 Building projects and improving coding skills
 </p>
----
 <h2 align="center">🛠️ Technical Skills</h2>
 
 <div align="center">
@@ -53,7 +52,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
----
 <h2 align="center">📌 Featured Project</h2>
 
 <div align="center">
@@ -64,7 +62,7 @@ A simple web application to organise and track daily tasks.
 [🌐 Live Demo](https://ushapriyagottimukkala-sudo.github.io/student-task-tracker/)
 
 </div>
----
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
