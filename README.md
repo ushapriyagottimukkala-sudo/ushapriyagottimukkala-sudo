@@ -53,27 +53,25 @@
 
 </div>
 
-<h2 align="center">💻 My Developer Journey</h2>
+<h2 align="center">🏆 Coding Profiles</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://www.codechef.com/users/ushapriya_06">
+    <strong>👩‍💻 Visit My CodeChef Profile</strong>
+  </a>
+</p>
 
-| Area | Currently Learning |
-|:---:|:---|
-| Programming | C, Java |
-| Web Development | HTML, CSS, JavaScript |
-| DSA | Arrays, Linked Lists, Two Pointers, Sliding Window |
-| Tools | Git and GitHub |
+<h3 align="center">📈 Coding Milestone</h3>
 
-</div>
+<p align="center">
+  <strong>180+ Problems Solved on CodeChef</strong><br>
+  Practising problem-solving and strengthening programming fundamentals.
+</p>
+
 
 <h2 align="center">📌 Featured Project</h2>
 
 <div align="center">
-
-<a href="https://github.com/ushapriyagottimukkala-sudo/student-task-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ushapriyagottimukkala-sudo&repo=student-task-tracker&theme=tokyonight&hide_border=true" />
-</a>
-
 **Student Task Tracker**
 
 A simple web application to organise and track daily tasks.
@@ -96,6 +94,22 @@ A simple web application to organise and track daily tasks.
 **Learn with curiosity. Build with purpose. Grow with consistency.**
 
 </div>
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/usha-priya-gottimukkala-767a78382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ushapriya_06">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Always learning, building, and improving! 🚀</i>
+</p>
+
 
 
 
