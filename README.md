@@ -74,11 +74,13 @@ A simple web application to organise and track daily tasks.
     <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
+<h3 align="center">
+  ✨ "Turning curiosity into code, and ideas into reality."
+</h3>
 
 <p align="center">
-  <i>Always learning, building, and improving! 🚀</i>
+  Thanks for visiting my profile! 💜
 </p>
-
 
 
 
