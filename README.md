@@ -1,19 +1,20 @@
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A8_Hey_there!_I'm_Usha_Priya_%E2%9C%A8-30204F?style=for-the-badge&labelColor=30204F" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:30204F,100:805AD5&height=200&section=header&text=Hey%20there!%20I'm%20Usha%20Priya&fontSize=36&fontColor=FFFFFF&fontAlignY=40&desc=Computer%20Science%20Engineering%20Student&descSize=18&descAlignY=65&animation=fadeIn"
+    width="100%"
+    alt="Usha Priya - Developer Header"
+  />
 </p>
 
-<h3 align="center">
-  💻 Computer Science Engineering Student
-</h3>
-
 <p align="center">
-  Aspiring Software Engineer | 🧩 Problem Solver
+  💻 Aspiring Software Engineer | 🧩 Problem Solver
 </p>
 
 ---
 
 <h2>🌸 About Me</h2>
+
 
 ---
 
